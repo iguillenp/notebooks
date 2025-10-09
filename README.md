@@ -15,6 +15,7 @@ Colección organizada de notebooks Jupyter con ejemplos, experimentos y tutorial
   - covariate
     - multi-dimensional
       - [Mean Maximum Discrepancy](data-drift/covariate/multi-dimensional/mmd.ipynb)
+      - [Mean Maximum Discrepancy en Textos](data-drift/covariate/multi-dimensional/mmd_text.ipynb)
     - uni-dimensional
       - [Kolmogorov Smirnov Test](data-drift/covariate/uni-dimensional/kolmogorov-smirnov.ipynb)
 
