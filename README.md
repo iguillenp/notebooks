@@ -2,6 +2,14 @@
 
 Colección organizada de notebooks Jupyter con ejemplos, experimentos y tutoriales de IA, PLN y ciencia de datos.
 
+## Requisitos
+En este repositorio se está usando Python 3.13.7. Aunque cada notebook tenga sus requisitos particulares, construyendo tu entorno conda de acuerdo al `environment.yml` podrás ejecutar todos los notebooks sin problemas.
+``` bash
+
+conda env create -f environment.yml
+
+```
+
 ## Índice de notebooks (estructura)
 
 <!-- NOTEBOOK TREE: START -->
